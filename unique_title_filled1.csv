@@ -1,0 +1,25 @@
+,title,Type,Listicle,Concept type,Topic,DS or other
+0,"Ultimate Guide to Lists, Tuples, Arrays and Dictionaries For Beginners.",What is it?,No,Specific,Data structures,DS
+1,"Successfully use If-Else Statements, For Loops and List Comprehensions in Python",How-to tutorial,No,Specific,Control Flow,DS
+2,4 Fundamental NumPy Properties Every Data Scientist Must Master,What is it?,Yes,Specific,Numpy,DS
+3,What is Model Complexity? Compare Linear Regression to Decision Trees to Random Forests,What is it?,No,Specific,ML algorithms,ML
+4,A 9 Step Proven Relationship Guide for Getting from ‘Hey’ to ‘I do’,How-to tutorial,Yes,Other,Relationships,Other
+5,8 Effective Strategies to Learn Data Science Faster in 2021,Opinion,Yes,General,Learn DS,DS
+6,11 Essential Code Blocks for EDA (Exploratory Data Analysis) — Regression Task,How-to tutorial,Yes,Specific,EDA,DS
+7,Become a Paid Medium Writer from Anywhere in the World,How-to tutorial,No,Other,Medium,Other
+8,Fundamentals of Linear Regression for Machine Learning,What is it?,No,Specific,ML algorithms,ML
+9,Mental Health: Things You Didn’t Know You Didn’t Know,,No,Other,,Other
+10,"Preventing Overfitting with Lasso, Ridge and Elastic-net Regularization in Machine Learning",How-to tutorial,No,Specific,ML algorithms,ML
+11,4 Ways to a Happier Day: Dealing With Annoying Inconveniences,,,,,Other
+12,13 Key Code Blocks for EDA-Classification Task,How-to tutorial,Yes,Specific,EDA,DS
+13,Demystify Deep Learning Terminologies and Build Your First Neural Network,What is it?,No,General,Neural networks,DL
+14,"How to Upload Large Image Datasets into Colab from Github, Kaggle and Local Machine",How-to tutorial,Yes,Specific,Colab,DS
+15,Data Answers the ‘Are You Too Old to Learn Coding?’ Timeless Question,Opinion,Yes,General,Learn DS,DS
+16,The Ultimate 4 Step Guide to Clean Data,How-to tutorial,Yes,Specific,Cleaning data,DS
+17,What is Data Extraction? A Python Guide to Real-World Datasets,How-to tutorial,Yes,Specific,Extract data,DS
+18,Lambda Functions with Practical Examples in Python,What is it?,No,Specific,Lambda,DS
+19,"Pandas Melt, Stack and wide_to_long For Reshaping Columns into Rows",How-to tutorial,No,Specific,Reshaping df,DS
+20,A Pandas Tutorial Highlighting 8 Essential Functionalities,What is it?,Yes,General,Pandas,DS
+21,Functions That Generate a Multi-index in Pandas and How to Remove the Levels,What is it?,No,Specific,Multiindex,DS
+22,7 Data Pet Projects To Learn Data Science Faster,Opinion,Yes,General,Learn DS,DS
+23,Filter a Pandas DataFrame by a Partial String or Pattern in 8 Ways,How-to tutorial,Yes,Specific,Filter strings,DS
